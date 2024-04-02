@@ -100,7 +100,7 @@
 </td>
   </tr></td>
  <td>Deskripsi Diri</td>
-    <td>Saya adalah anak perempuan terakhir yang sangat unik dan kuat, saya juga suka ketika bisa menjadi pendengar yang baik dan bisa memberikan saran jika teman saya meminta. Saya juga memiliki sifat yang sensitif dan firasat yang kuat.">
+    <td>Saya adalah anak perempuan terakhir yang sangat unik dan kuat, saya juga suka ketika bisa menjadi pendengar yang baik dan bisa memberikan saran jika teman saya meminta. Saya juga memiliki sifat yang sensitif dan firasat yang kuat.
 </td>
   </tr></td>
 </table></center>
